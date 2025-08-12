@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **Expense Tracker**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 
+LinkedIn: https://www.linkedin.com/in/saphalya-acharya/</h3>
 <p align="left">
 </p>
 
